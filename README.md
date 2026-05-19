@@ -4,7 +4,7 @@
 | Metadata | Details |
 | :--- | :--- |
 | **Estimated Time to Complete** | 15 hours |
-| **Deadline for Submission** | 1st June |
+| **Deadline for Submission** | 3rd June |
 | **Total Points** | 100 Points |
 
 ---
