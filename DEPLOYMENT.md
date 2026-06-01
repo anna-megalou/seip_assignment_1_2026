@@ -1,4 +1,4 @@
-# Software Engineering in Practice — Assignment 1
+# Software Engineering in Practice - Assignment 1
 
 ## Advanced DevOps: Production-Grade CI/CD, External Configuration and Orchestration
 
